@@ -25,11 +25,4 @@ class Gossip
 	  	all_gossips
 	end
 
-	# def find(id)
-	# 	all_gossips.each do | author, content|
-			
-
-		
-	# end
-
 end
